@@ -1,4 +1,4 @@
-# 🚀 VectorShift Frontend Technical Assessment - By <a href="https://shubhamspatil.vercel.app">Shubham Patil</a>
+
 
 A comprehensive React + FastAPI application demonstrating frontend engineering skills through visual pipeline creation and validation. This project showcases node abstraction, modern styling, dynamic text processing, and backend integration.
 
